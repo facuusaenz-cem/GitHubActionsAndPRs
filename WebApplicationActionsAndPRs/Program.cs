@@ -16,6 +16,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//Commentaire générique :D
+
 app.UseAuthorization();
 
 app.MapControllers();
